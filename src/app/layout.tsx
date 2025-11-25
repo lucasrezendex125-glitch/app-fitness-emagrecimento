@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FitLife - Seu App de Emagrecimento",
-  description: "Aplicativo fitness para emagrecimento com atividades, aulas e suporte para Ozempic e Mounjaro",
+  title: "FitLife Pro - Transforme Sua Vida",
+  description: "Plataforma completa de fitness para emagrecimento com atividades, aulas ao vivo e suporte especializado para Ozempic e Mounjaro",
 };
 
 export default function RootLayout({

@@ -1,5 +1,6 @@
 import type { NextConfig } from "next";
 
+// Force rebuild - fixed all parsing errors
 const nextConfig: NextConfig = {
   devIndicators: false, // Remove widget de desenvolvimento Next.js
   

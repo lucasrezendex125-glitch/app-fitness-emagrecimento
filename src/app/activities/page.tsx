@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react';
 import ActivityCard from '../../components/ActivityCard';
 import Header from '../../components/Header';
@@ -94,5 +96,4 @@ export default function ActivitiesPage() {
       <Footer />
     </div>
   );
-}</content>
-<path>src/app/activities/page.tsx
+}
